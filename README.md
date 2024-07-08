@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Piyumi Bhagya.
 - 👀 I’m interested in Web development , Software Development and data analysis.
-- 🌱 I’m currently learning in Computer Science and Statistics in Faculty of
-- science at University of Peradeniya.
+- 🌱 I’m currently learning in Computer Science and Statistics in Faculty of science at University of Peradeniya.
 - 💞️ I’m looking to collaborate on exciting web projects and data analysis ventures to leverage my skills in developing innovative solutions and uncovering insights from data.
 - 📫 Reach me:
-- Email - piyumibhagya1007@gmail.com
-- Contact No - 0762069874
+  Email - piyumibhagya1007@gmail.com
+  Contact No - 0762069874
 
 
 <!---
